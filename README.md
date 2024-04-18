@@ -739,6 +739,7 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+* ⬆ Bump docker/setup-buildx-action from 1 to 3. PR [#3](https://github.com/khulnasoft/uvicorn-gunicorn-starlette-docker/pull/3) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump peter-evans/dockerhub-description from 3 to 4. PR [#2](https://github.com/khulnasoft/uvicorn-gunicorn-starlette-docker/pull/2) by [@dependabot[bot]](https://github.com/apps/dependabot).
 
 #### Internal
