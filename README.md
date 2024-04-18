@@ -739,6 +739,8 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+* ⬆ Bump peter-evans/dockerhub-description from 3 to 4. PR [#2](https://github.com/khulnasoft/uvicorn-gunicorn-starlette-docker/pull/2) by [@dependabot[bot]](https://github.com/apps/dependabot).
+
 #### Internal
 
 * 🔧 Add GitHub templates for discussions and issues, and security policy. PR [#167](https://github.com/khulnasoft/uvicorn-gunicorn-starlette-docker/pull/167) by [@alejsdev](https://github.com/alejsdev).
