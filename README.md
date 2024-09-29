@@ -739,6 +739,7 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+* ⬆ Bump gunicorn from 22.0.0 to 23.0.0. PR [#21](https://github.com/khulnasoft/uvicorn-gunicorn-starlette-docker/pull/21) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump docker/build-push-action from 5 to 6. PR [#14](https://github.com/khulnasoft/uvicorn-gunicorn-starlette-docker/pull/14) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump actions/setup-python from 4 to 5. PR [#5](https://github.com/khulnasoft/uvicorn-gunicorn-starlette-docker/pull/5) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump docker/build-push-action from 2 to 5. PR [#6](https://github.com/khulnasoft/uvicorn-gunicorn-starlette-docker/pull/6) by [@dependabot[bot]](https://github.com/apps/dependabot).
